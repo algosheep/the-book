@@ -1,4 +1,4 @@
-### Code Implementation Of The Rust Programming Language
+## Code Implementation Of The Rust Programming Language
 
 #### 1. Getting Started
 
