@@ -8,6 +8,12 @@
 
 #### 2. Programming a Guessing Game
 
+- 2.1. Setting Up a New Project
+- 2.2. Processing a Guess
+- 2.3. Generating a Secret Number
+- 2.4. Comparing the Guess to the Secret Number
+- 2.5. Allowing Multiple Guesses with Looping 
+
 #### 3. Common Programming Concepts
 
 - 3.1. Variables and Mutability
