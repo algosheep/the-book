@@ -1,5 +1,9 @@
-fn main() {
-    let guess: u32 = "52".parse().expect("Not a number!");
+fn main(){
+    let a = [1, 2, 3, 4, 5];
 
-    println!("guess is: {}", guess);
+    let index = 3;
+
+    let element = a[index];
+
+    println!("The value of element is: {}", element);
 }
